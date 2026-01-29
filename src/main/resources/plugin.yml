@@ -1,0 +1,13 @@
+name: LevitationArrows
+main: com.example.levitationarrows.LevitationArrows
+version: 1.0.0
+api-version: 1.21
+author: You
+commands:
+  lareload:
+    description: Reload LevitationArrows
+    permission: levitationarrows.reload
+permissions:
+  levitationarrows.reload:
+    default: op
+
